@@ -12,7 +12,6 @@ DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
 # 内容：个人 
 # 数量：3条
+DOMAIN-SUFFIX,steampy.com
 DOMAIN-SUFFIX,keylol.com
-DOMAIN,steampy.com
 DOMAIN-SUFFIX,ali213.net
-
