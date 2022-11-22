@@ -2,7 +2,6 @@
 # 数量：11条
 DOMAIN,steampipe.akamaized.net
 DOMAIN-SUFFIX,cdn.steampipe.steamcontent.com
-DOMAIN,steampy.com
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,st.dl.bscstorage.net
 DOMAIN,dl.steam.clngaa.com
@@ -11,3 +10,7 @@ DOMAIN,xz.pphimalayanrt.com
 DOMAIN,cdn-ws.content.steamchina.com
 DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
+# 内容：个人 
+# 数量：11条
+DOMAIN,steampy.com
+DOMAIN-SUFFIX,ali213.net
